@@ -11,16 +11,16 @@
 <br>
     
 <p align="center">
-    <a href="https://github.com/devXprite/GitVio/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/devXprite/GitVio"></a>
+    <a href="https://github.com/softtscoder/GitVio/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/devXprite/GitVio"></a>
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/devXprite/GitVio">
-    <a href="https://github.com/devXprite/GitVio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/devXprite/GitVio"></a>
-    <a href="https://github.com/devXprite/GitVio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/devXprite/GitVio"></a>
+    <a href="https://github.com/softtscoder/GitVio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/devXprite/GitVio"></a>
+    <a href="https://github.com/softtscoder/GitVio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/devXprite/GitVio"></a>
     <br/>
     <a href="https://gitvio.vercel.app/">View Demo</a>
     ·
-    <a href="https://github.com/devXprite/GitVio/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
+    <a href="https://github.com/softtscoder/GitVio/issues/new?assignees=&labels=bug&template=bug_report.md&title=">Report Bug</a>
     ·
-    <a href="https://github.com/devXprite/gitvio/issues">Request Feature</a>
+    <a href="https://github.com/softtscoder/gitvio/issues">Request Feature</a>
 </p>
 <br />
 
